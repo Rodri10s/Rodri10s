@@ -5,7 +5,7 @@
 </div>
 
 ## 
-> #### Estudante do Quarto ano do Ensino Médio Técnico Do IFBA - Campus Paulo Afonso
+> #### Estudante do Quarto Ano de Informática do Ensino Médio Técnico Do IFBA - Campus Paulo Afonso
 <div>
  <img hight="100cm" src="https://media.giphy.com/media/Godtj62ewycxy/giphy.gif" width="150px"/>
 </div>
