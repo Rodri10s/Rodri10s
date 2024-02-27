@@ -14,12 +14,19 @@
  <img hight="100cm" src="https://media.giphy.com/media/Godtj62ewycxy/giphy.gif" width="150px"/>
 </div>
 
-public class AtividadeTres {
+public class AtividadeCinco {
     public static void main(String[] args) {
-        
-        int resultado = 0;
-        int anterior = 1;
+        Scanner input = new Scanner(System.in);
 
-        
+        System.out.println("Informe o número: ");
+        int num = input.nextInt();
+
+        if (num%2==0) {
+            System.out.println("O número "+num+" é Par!");
+        } else if (!(num%2==0 || num%3==0 || num%5==0)) {
+            System.out.println("O número "+num+" é Primo!");
+        }else{
+            System.out.println("O número "+num+" é ímpar!");
+        }
     }
 }
