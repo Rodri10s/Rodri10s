@@ -1,8 +1,3 @@
-### Opaa! Aqui quem fala é <a href="[https://www.w3schools.com/html/default.asp](https://www.instagram.com/r.rodrigues_s/)">Ramon Rodrigues😁</a>
-
-> #### 📍 Pernambucano 
-> #### 📅 20 anos
-> #### 👨🏽‍💻Técnico em Informática pelo IFBA - Paulo Afonso
 
 <div>
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rodri10s&show_icons=true&theme=maroongold"/>
